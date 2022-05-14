@@ -1,0 +1,161 @@
+.maquetacion{
+    width: 1366px;
+    height: 70rem;
+    background-color: red;
+    margin: 0.5rem auto;
+    padding: 0.5rem;
+}
+
+.arriba {
+    width: 1300px;
+    height: 1.5rem;
+    background-color: #dcdcdc;
+    padding: 1.5rem;
+}
+
+.arriba div{
+    width: 1200px;
+    height: 2rem;
+    background-color: white;
+    margin: auto;
+}
+
+.arribaazul{
+    width: 1337px;
+    height: 2.5rem;
+    background-color: #151e3d;
+display: flex;
+padding: 0.5%;
+}
+
+.arribaazul div{
+margin-left: 70rem;
+    width: 120px;
+    height: 2rem;
+    background-color: red;
+    margin-right: 2rem;
+}
+
+
+.contenido{
+    width: 1366px;
+    height: 61.5rem;
+    background-color: white;
+display: flex;
+}
+
+.caja1 {
+    width: 900px;
+    height: 61rem;
+    background-color:white;
+    display: flex;
+    flex-direction: column;
+}
+.xd {
+    width: 820px;
+    height: 20rem;
+    background-color: #a7a7a7;
+    margin: 2%;
+    display: flex;
+    flex-direction: column-reverse;
+
+  }
+
+.xd .grande{
+    width: 500px;
+    height: 2rem;
+    background-color: #6f6f6f;
+    margin: 2%;
+    flex-direction: column-reverse;
+}
+
+  .caja2{
+    width: 849px;
+    height: 10rem;
+    background-color: white;
+    display: flex;
+  }
+  .caja2 div{
+    width: 820px;
+    height: 10rem;
+    background-color: #a7a7a7;
+    margin: 1%;
+  }
+
+  .caja3{
+    width: 849px;
+    height: 12rem;
+    background-color: white;
+    display: flex;
+  }
+  .caja3 div {
+    width: 820px;
+    height: 10rem;
+    background-color: #a7a7a7;
+    margin: 1%;
+  }
+
+  .caja4 {
+    width: 837px;
+    height: 20rem;
+    background-color: white;
+    margin: 1%;
+    display: column;
+  }
+
+  .caja4 .cuadro{
+    width: 50%;
+    height: 18rem;
+    background-color: #a7a7a7;
+    margin: 1%;
+  }
+
+  .rectangulo1{
+    width:365px;
+    margin: 2%;
+    height: 2rem;
+    background-color: #6f6f6f;
+    display: flex;
+    margin-left: 109%;
+  }
+
+  .rectangulo2{
+    width:365px;
+    margin: 3%;
+    height: 2rem;
+    background-color: #a7a7a7;
+    display: flex;
+    margin-left: 109%;
+  }
+
+  .rectangulo3{
+    width: 100px;
+    margin: 1%;
+    height: 2rem;
+    background-color: #a7a7a7;
+    display: flex;
+    margin-left: 109%;
+  }
+
+  .caja6 {
+    width: 500px;
+    height: 60rem;
+    background-color: #dcdcdc;
+   display: flex;
+    margin: 1%;
+ flex-direction: column-reverse;
+}
+
+.caja6 div{
+    width: 60%;
+    height: 13rem;
+    background-color: #a7a7a7;
+    margin: 2%;
+    margin-left: 38%;
+  }
+.caja6 .recuadrogrande{
+    width: 95%;
+    height: 30rem;
+    background-color: #a7a7a7;
+    margin: 2%;
+  }
